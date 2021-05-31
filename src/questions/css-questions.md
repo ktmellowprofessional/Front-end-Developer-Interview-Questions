@@ -68,4 +68,3 @@ border-box: border and padding counted as part of height and width, easier to co
 Has a colon
 Often a state selector
 :hover, :focus, :playing, :pause
-
